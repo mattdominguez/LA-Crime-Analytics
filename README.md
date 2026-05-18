@@ -20,20 +20,20 @@ The dataset used in this project is publicly available from data.gov and contain
 
 Source: data.gov
 
-**Workflow: **
+# Workflow:
 1. Data Cleaning and preprocessing using Python
 2. Data storage and querying using SQL
 3. Exploratory data analysis and visualization
 4. Dashboard creation using Tableau
 5. Insight, pattern identification, conclusion.
 
-**Key Questions: ** 
+# Key Questions 
 What are the most common types of crime in Los Angeles? 
 How do crime rates vary by time of day and day of week? 
 Which areas have the highest crime concentration?
 Are there seasonal patterns in crime occurences?
 
-**Structure: **
+# Structure 
 data/
 python/
 sql/
