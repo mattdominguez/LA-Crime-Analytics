@@ -1,0 +1,9 @@
+data/raw/
+data/cleaned/
+
+_pycache_/
+*.pyc 
+
+.DS_Store
+
+.ipynb_checkpoints/
